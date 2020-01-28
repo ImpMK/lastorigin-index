@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/lastorigin-index/static/css/main.9a3f3417.chunk.css",
-    "main.js": "/github.io/lastorigin-index/static/js/main.e9c27298.chunk.js",
-    "main.js.map": "/github.io/lastorigin-index/static/js/main.e9c27298.chunk.js.map",
-    "runtime-main.js": "/github.io/lastorigin-index/static/js/runtime-main.daedac43.js",
-    "runtime-main.js.map": "/github.io/lastorigin-index/static/js/runtime-main.daedac43.js.map",
-    "static/js/2.681d0fd7.chunk.js": "/github.io/lastorigin-index/static/js/2.681d0fd7.chunk.js",
-    "static/js/2.681d0fd7.chunk.js.map": "/github.io/lastorigin-index/static/js/2.681d0fd7.chunk.js.map",
-    "index.html": "/github.io/lastorigin-index/index.html",
-    "precache-manifest.8897ea0066843a2de6b05c5f93de7616.js": "/github.io/lastorigin-index/precache-manifest.8897ea0066843a2de6b05c5f93de7616.js",
-    "service-worker.js": "/github.io/lastorigin-index/service-worker.js",
-    "static/css/main.9a3f3417.chunk.css.map": "/github.io/lastorigin-index/static/css/main.9a3f3417.chunk.css.map",
-    "static/js/2.681d0fd7.chunk.js.LICENSE": "/github.io/lastorigin-index/static/js/2.681d0fd7.chunk.js.LICENSE"
+    "main.css": "/lastorigin-index/static/css/main.9a3f3417.chunk.css",
+    "main.js": "/lastorigin-index/static/js/main.e9c27298.chunk.js",
+    "main.js.map": "/lastorigin-index/static/js/main.e9c27298.chunk.js.map",
+    "runtime-main.js": "/lastorigin-index/static/js/runtime-main.4675a46b.js",
+    "runtime-main.js.map": "/lastorigin-index/static/js/runtime-main.4675a46b.js.map",
+    "static/js/2.681d0fd7.chunk.js": "/lastorigin-index/static/js/2.681d0fd7.chunk.js",
+    "static/js/2.681d0fd7.chunk.js.map": "/lastorigin-index/static/js/2.681d0fd7.chunk.js.map",
+    "index.html": "/lastorigin-index/index.html",
+    "precache-manifest.af05a1b412ec5f9234d2227129a56e9f.js": "/lastorigin-index/precache-manifest.af05a1b412ec5f9234d2227129a56e9f.js",
+    "service-worker.js": "/lastorigin-index/service-worker.js",
+    "static/css/main.9a3f3417.chunk.css.map": "/lastorigin-index/static/css/main.9a3f3417.chunk.css.map",
+    "static/js/2.681d0fd7.chunk.js.LICENSE": "/lastorigin-index/static/js/2.681d0fd7.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.daedac43.js",
+    "static/js/runtime-main.4675a46b.js",
     "static/js/2.681d0fd7.chunk.js",
     "static/css/main.9a3f3417.chunk.css",
     "static/js/main.e9c27298.chunk.js"
